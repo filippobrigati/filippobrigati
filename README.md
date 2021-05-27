@@ -9,14 +9,6 @@
 
 hi, I'm 19 and I'm from Reggio Emilia, Italy 🇮🇹. I just finished high school📚 where I studied informed, in these months I will have to choose the university. I have different passions such as walking in the mountains, climbing, and playing sports. Especially soccer ⚽️ and football 🏈. I started studying computer science 🧑🏼‍💻 in high school and I am particularly attracted to web development, both client and server. I can create sites in React JS, Next JS and as a database I have studied MongoDB and MySQL. Server side I use Node JS and PHP 💫.
 
-### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently working with Nodejs, Nextjs, React, <br /> MySQL, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/filippo-brigati).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: filippobrigati2@gmail.com.
-
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
@@ -27,6 +19,14 @@ hi, I'm 19 and I'm from Reggio Emilia, Italy 🇮🇹. I just finished high scho
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Nodejs, Nextjs, React, <br /> MySQL, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/filippo-brigati).
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: filippobrigati2@gmail.com.
 
 <!--
 
