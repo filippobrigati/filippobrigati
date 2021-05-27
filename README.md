@@ -9,8 +9,6 @@
 
 hi, I'm 19 and I'm from Reggio Emilia, Italy 🇮🇹. I just finished high school📚 where I studied informed, in these months I will have to choose the university. I have different passions such as walking in the mountains, climbing, and playing sports. Especially soccer ⚽️ and football 🏈. I started studying computer science 🧑🏼‍💻 in high school and I am particularly attracted to web development, both client and server. I can create sites in React JS, Next JS and as a database I have studied MongoDB and MySQL. Server side I use Node JS and PHP 💫.
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Nextjs, React, <br /> MySQL, Mongodb, Javascript, etc.
