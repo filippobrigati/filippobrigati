@@ -1,4 +1,4 @@
-### Hey! Welcomr in my GitHub Profile
+### Hey! Welcome in my GitHub Profile
 
 - 👋 Hi, I’m @filippo-brigati
 - 👀 I’m interested in *all*
