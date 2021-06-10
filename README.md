@@ -2,7 +2,7 @@
 
 - 👋 Hi, My name is Filippo Brigati and [this](https://filippobrigati.com/) is my website
 - 👀 I’m interested in *all*
-- 🪂 Framework that I use ReactJS and NextJS
+- 🪂 Framework that I use: ReactJS and NextJS
 - 🍭 Front-End Libraries: TailwindCSS, BulmaUI, Bootstrap and I'm learning MaterialUI
 - 🌚 Back-End: NodeJS
 - 📚 Database that I use: MongoDB, Firebase, MySQL
