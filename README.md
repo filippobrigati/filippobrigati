@@ -1,6 +1,6 @@
 ### Hey! Welcome in my GitHub Profile
 
-- 👋 Hi, My name is Filippo Brigati [this](https://filippobrigati.com/) is my website
+- 👋 Hi, My name is Filippo Brigati and [this](https://filippobrigati.com/) is my website
 - 👀 I’m interested in *all*
 - 🪂 Framework that I use ReactJS and NextJS
 - 🍭 Front-End Libraries: TailwindCSS, BulmaUI, Bootstrap and I'm learning MaterialUI
