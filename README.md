@@ -1,6 +1,6 @@
 ### Hey! Welcome in my GitHub Profile
 
-- 👋 Hi, My name is Filippo Brigati and [this](https://filippobrigati.com/) is my website
+- 👋 Hi, My name is Filippo Brigati and [this](filippobrigati.netlify.app) is my website
 - 🪂 Framework that I use: ReactJS, NextJS, Angular
 - 🍭 Front-End Libraries: TailwindCSS, Bootstrap and I'm learning MaterialUI
 - 🌚 Back-End: .NET, NodeJS
