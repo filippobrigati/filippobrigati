@@ -7,3 +7,6 @@
 - 📚 Database that I use: MongoDB, MySQL
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me via email at filippobrigati2@gmail.com
+
+### Some Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-brigati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
