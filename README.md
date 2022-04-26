@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there, I'm Filippo 👋
-I'am a younior web developer based in Reggio Emilia, Italy 🇮🇹. I'm 19 y.o and i have studied IT in the last five years at school, we learned Java, C++, PHP, SQL...and I studied React and Next. Now at work i'm using **Angular and .NET**. I also like climbing, watching series, and travel.
+I'm a younior web developer based in Reggio Emilia, Italy 🇮🇹. I'm 19 y.o and i have studied IT in the last five years at school, we learned Java, C++, PHP, SQL, HTML, CSS and JavaScript. I also studied React and Next. Now at work i'm using **Angular and .NET**. I like climbing, watching series, and travel.
 
 ### What I'm doing 🔥
 - `Brixlist` the repos container for my project 👉🏻 [here](https://github.com/brixlist)
