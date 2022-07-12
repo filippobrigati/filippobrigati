@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=filippo-brigati&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Zhou Jian's github stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=filippo-brigati&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Zhou Jian's github stats">
 </p>
 
 ### Hi there, I'm Filippo 👋
