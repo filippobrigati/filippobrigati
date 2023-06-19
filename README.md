@@ -5,4 +5,4 @@ I study [computer science](https://corsi.unibo.it/laurea/InformaticaManagement) 
 
 You can find out more about me on my [website](https://filippobrigati.vercel.app/)
 
-me on social networks: [Instagram](https://www.instagram.com/fillo.brigati/), [Twitter](https://twitter.com/brigati_filippo), [Telegram](https://t.me/filippobrigati), [Linkedin](https://www.linkedin.com/in/filippo-brigati-6569981b2/)
+me on social networks: [Instagram](https://www.instagram.com/fillobrigati/), [Twitter](https://twitter.com/brigati_filippo), [Telegram](https://t.me/filippobrigati), [Linkedin](https://www.linkedin.com/in/filippo-brigati-6569981b2/)
