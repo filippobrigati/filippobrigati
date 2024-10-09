@@ -1,5 +1,5 @@
 
-Hi there, I'm Filippo. 20 y.o. guy from Italy
+Hi there, I'm Filippo. 22 y.o. guy from Italy
 
 I study [computer science](https://corsi.unibo.it/laurea/InformaticaManagement) at Unibo and I also work as a software developer.
 
